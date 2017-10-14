@@ -1,22 +1,22 @@
 {
   "name": "buildmotion-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular custom module that contains alert elements for Build Motion Angular applications...",
   "main": "index.js",
   "scripts": {
-      "transpile": "ngc",
-      "build": "npm run transpile"
+    "transpile": "ngc",
+    "build": "npm run transpile"
   },
   "repository": {
-      "type": "git",
-      "url": "https://build-hybridmobileapp-net.visualstudio.com/_git/BuildMotion.Commerce"
+    "type": "git",
+    "url": "https://github.com/buildmotion/buildmotion-alert"
   },
   "keywords": [
-      "buildmotion",
-      "Build Motion",
-      "Angular",
-      "framework",
-      "Matt Vaughn"
+    "buildmotion",
+    "Build Motion",
+    "Angular",
+    "framework",
+    "Matt Vaughn"
   ],
   "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
   "license": "SEE LICENSE IN license.txt",
