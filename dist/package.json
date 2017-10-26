@@ -1,6 +1,6 @@
 {
   "name": "buildmotion-alert",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Angular custom module that contains alert elements for Build Motion Angular applications...",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "Matt Vaughn"
   ],
   "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
-  "license": "SEE LICENSE IN license.txt",
+  "license": "MIT",
   "devDependencies": {
     "@angular/cli": "^1.4.2",
     "@angular/common": "^4.4.3",

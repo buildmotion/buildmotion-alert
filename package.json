@@ -1,31 +1,32 @@
 {
-  "name": "buildmotion-alert",
-  "version": "1.0.0",
-  "description": "An Angular custom module that contains alert elements for Build Motion Angular applications...",
-  "main": "index.js",
-  "scripts": {
+    "name": "buildmotion-alert",
+    "version": "1.0.1",
+    "description": "An Angular custom module that contains alert elements for Build Motion Angular applications...",
+    "main": "index.js",
+    "scripts": {
       "transpile": "ngc",
       "build": "npm run transpile"
-  },
-  "repository": {
+    },
+    "repository": {
       "type": "git",
       "url": "https://github.com/buildmotion/buildmotion-alert"
-  },
-  "keywords": [
+    },
+    "keywords": [
       "buildmotion",
       "Build Motion",
       "Angular",
       "framework",
       "Matt Vaughn"
-  ],
-  "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
-  "license": "SEE LICENSE IN license.txt",
-  "devDependencies": {
-    "@angular/cli": "^1.4.2",
-    "@angular/common": "^4.4.3",
-    "@angular/compiler": "^4.4.3",
-    "@angular/compiler-cli": "^4.4.3",
-    "@angular/core": "^4.4.3",
-    "rxjs": "^5.0.1"
+    ],
+    "author": "matt.vaughn@buildmotion.com www.buildmotion.com",
+    "license": "MIT",
+    "devDependencies": {
+      "@angular/cli": "^1.4.2",
+      "@angular/common": "^4.4.3",
+      "@angular/compiler": "^4.4.3",
+      "@angular/compiler-cli": "^4.4.3",
+      "@angular/core": "^4.4.3",
+      "rxjs": "^5.0.1"
+    }
   }
-}
+  
